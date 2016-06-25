@@ -1,0 +1,7 @@
+body #one {background-color: grey}
+h1 {background-color: seagreen}
+h2 {background-color: blueviolet}
+p {background-color: ghostwhite}
+#hello {
+    padding: 30px; background-color: rgba(100, 150, 200, 0.5); }
+body #one {background-color: lightblue;}
